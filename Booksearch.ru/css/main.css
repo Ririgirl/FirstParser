@@ -1,0 +1,14 @@
+.container{
+	padding:5%;
+}
+p{
+	text-align: center;
+}
+table{
+	text-align: center;
+	align:center;
+	border: 1px solid black;
+	margin: auto;
+}
+th {border: 1px solid black;}
+td {border: 1px solid black;}
